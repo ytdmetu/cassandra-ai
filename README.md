@@ -1,1 +1,1 @@
-# ytd-ai
+# Cassandra AI
