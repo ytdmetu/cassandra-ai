@@ -2,8 +2,8 @@
   "seed": 42,
   "wandb": {
     "wandb_enabled": true,
-    "wandb_username": "bdsaglam",
-    "wandb_project": "truba"
+    "wandb_username": "ytdteam",
+    "wandb_project": "ytd-cassandra-forecast"
   },
   "data": {
     "path": "ytdteam/ytd-cassandra-forecast/meta-stock-price:v4",
