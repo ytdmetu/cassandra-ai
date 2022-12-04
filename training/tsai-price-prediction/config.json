@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "wandb": {
+    "wandb_enabled": true,
+    "wandb_username": "bdsaglam",
+    "wandb_project": "truba"
+  },
+  "data": {
+    "path": "ytdteam/ytd-cassandra-forecast/meta-stock-price:v4",
+    "stock_id": "META",
+    "split_date": "2022-10-01",
+    "look_back": 60
+  },
+  "model": {
+    "batch_size": 128,
+    "architecture": "LSTMPlus",
+    "epochs": 50,
+    "early_stop_patience": 5,
+    "lr": 0.001
+  }
+}
