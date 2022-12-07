@@ -17,3 +17,4 @@ coverage
 test_report.xsd
 .mypy_cache
 wandb
+datasets
